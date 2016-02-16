@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./floraefennicaebr00pryt_0002.png"; bbox 0 0 1796 3121; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 690 156 1015 390">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 732 156 971 191">
+     <span class='ocr_line' id='line_1_1' title="bbox 732 156 971 191; baseline 0.008 -2"><span class='ocrx_word' id='word_1_1' title='bbox 732 156 971 191; x_wconf 63' lang='lat' dir='ltr'><strong>mmmm(</strong></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 693 222 1011 258">
+     <span class='ocr_line' id='line_1_2' title="bbox 693 222 1011 258; baseline 0.009 -3"><span class='ocrx_word' id='word_1_2' title='bbox 693 222 822 256; x_wconf 69' lang='lat' dir='ltr'>Nxzw</span> <span class='ocrx_word' id='word_1_3' title='bbox 859 222 1011 258; x_wconf 75' lang='lat' dir='ltr'>YoRK</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 690 277 1015 390">
+     <span class='ocr_line' id='line_1_3' title="bbox 690 277 1015 324; baseline 0.006 -2"><span class='ocrx_word' id='word_1_4' title='bbox 690 277 1015 324; x_wconf 61' lang='lat' dir='ltr'>norrANJcAn</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 733 353 968 390; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 733 353 968 390; x_wconf 79' lang='lat' dir='ltr'><strong>GARDEN·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 797 1966 1273 2180">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 797 1966 1273 2180">
+     <span class='ocr_line' id='line_1_5' title="bbox 797 1966 1273 2047; baseline 0.021 -14"><span class='ocrx_word' id='word_1_6' title='bbox 797 1966 937 2047; x_wconf 50' lang='lat' dir='ltr'>hray</span> <span class='ocrx_word' id='word_1_7' title='bbox 974 1998 1273 2043; x_wconf 73' lang='lat' dir='ltr'>Herbarium</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 905 2064 1168 2107; baseline 0.023 -6"><span class='ocrx_word' id='word_1_8' title='bbox 905 2064 1168 2107; x_wconf 82' lang='lat' dir='ltr'>Purehase</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 803 2127 1266 2180; baseline 0.019 -15"><span class='ocrx_word' id='word_1_9' title='bbox 803 2127 1065 2174; x_wconf 83' lang='lat' dir='ltr'>November</span> <span class='ocrx_word' id='word_1_10' title='bbox 1137 2136 1266 2180; x_wconf 76' lang='lat'>1971</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 399 554 1754 2291">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 399 554 1754 2291">
+     <span class='ocr_line' id='line_1_8' title="bbox 399 554 1754 2291; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 399 554 1754 2291; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
